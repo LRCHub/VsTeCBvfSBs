@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "きみだけは。 ／ 天月-あまつき-【オリジナル】",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2025-12-08T17:26:52.598427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きみだけは。",
+      "artist": "Amatsuki",
+      "has_synced": false,
+      "path": "select/01_きみだけは。_Amatsuki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きみだけは。",
+      "artist": "天月-あまつき-",
+      "has_synced": false,
+      "path": "select/pl_01_きみだけは。_天月-あまつき-.txt"
+    }
+  ]
+}
